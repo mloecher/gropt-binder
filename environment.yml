@@ -4,3 +4,5 @@ dependencies:
   - numpy
   - pip
   - cython
+  - pip:
+      - -e .
