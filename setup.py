@@ -38,5 +38,6 @@ extensions = [Extension("gropt",
             )]
 
 setup(
+    name="gropt",
     ext_modules = cythonize(extensions)
 )
