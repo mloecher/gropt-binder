@@ -1,0 +1,6 @@
+name: environment
+dependencies:
+  - python
+  - numpy
+  - pip
+  - cython
